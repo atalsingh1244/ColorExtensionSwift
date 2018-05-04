@@ -1,7 +1,7 @@
 {
   "name": "ColorExtensionSwift",
   "version": "0.1.0",
-  "summary": "A short description of ColorExtensionSwift.",
+  "summary": "ColorExtensionSwift is wrapper for coloring extension!!",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/atalsinghmgst@gmail.com/ColorExtensionSwift",
   "license": {
@@ -12,7 +12,7 @@
     "atalsinghmgst@gmail.com": "malik.khoja@pocketapp.co.uk"
   },
   "source": {
-    "git": "https://github.com/atalsinghmgst@gmail.com/ColorExtensionSwift.git",
+    "git": "https://github.com/atalsingh1244/ColorExtensionSwift.git",
     "tag": "0.1.0"
   },
   "platforms": {

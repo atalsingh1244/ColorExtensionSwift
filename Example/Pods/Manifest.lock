@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  ColorExtensionSwift: a041b0c739e6ff777fe3893748e2bf07befcbb67
+  ColorExtensionSwift: b97de292fcf0e0269cd449faca900f9300f7fd0c
 
 PODFILE CHECKSUM: 16a64912c2179071675037e630324ae8f28849c8
 
