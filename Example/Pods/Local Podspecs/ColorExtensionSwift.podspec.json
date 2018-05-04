@@ -1,0 +1,22 @@
+{
+  "name": "ColorExtensionSwift",
+  "version": "0.1.0",
+  "summary": "A short description of ColorExtensionSwift.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/atalsinghmgst@gmail.com/ColorExtensionSwift",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "atalsinghmgst@gmail.com": "malik.khoja@pocketapp.co.uk"
+  },
+  "source": {
+    "git": "https://github.com/atalsinghmgst@gmail.com/ColorExtensionSwift.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ColorExtensionSwift/Classes/**/*"
+}

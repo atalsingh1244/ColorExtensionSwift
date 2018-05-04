@@ -1,0 +1,16 @@
+PODS:
+  - ColorExtensionSwift (0.1.0)
+
+DEPENDENCIES:
+  - ColorExtensionSwift (from `../`)
+
+EXTERNAL SOURCES:
+  ColorExtensionSwift:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ColorExtensionSwift: a041b0c739e6ff777fe3893748e2bf07befcbb67
+
+PODFILE CHECKSUM: 16a64912c2179071675037e630324ae8f28849c8
+
+COCOAPODS: 1.5.0

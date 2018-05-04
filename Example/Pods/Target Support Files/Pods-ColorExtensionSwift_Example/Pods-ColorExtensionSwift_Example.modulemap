@@ -1,0 +1,6 @@
+framework module Pods_ColorExtensionSwift_Example {
+  umbrella header "Pods-ColorExtensionSwift_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

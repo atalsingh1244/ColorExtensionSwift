@@ -31,7 +31,7 @@
 		1472356E883AA1839C7AFFEB /* Pods-ColorExtensionSwift_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ColorExtensionSwift_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ColorExtensionSwift_Tests/Pods-ColorExtensionSwift_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		16368B5D2FB0BAE89143BF88 /* Pods-ColorExtensionSwift_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ColorExtensionSwift_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-ColorExtensionSwift_Tests/Pods-ColorExtensionSwift_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		247858905C6434EF1191FDE2 /* Pods-ColorExtensionSwift_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ColorExtensionSwift_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ColorExtensionSwift_Example/Pods-ColorExtensionSwift_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		497E33C7E5B7080BA496E8D6 /* ColorExtensionSwift.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = ColorExtensionSwift.podspec; path = ../ColorExtensionSwift.podspec; sourceTree = "<group>"; };
+		497E33C7E5B7080BA496E8D6 /* ColorExtensionSwift.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = ColorExtensionSwift.podspec; path = ../ColorExtensionSwift.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		607B13EAEC2931BA2CC67A5D /* Pods-ColorExtensionSwift_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ColorExtensionSwift_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-ColorExtensionSwift_Example/Pods-ColorExtensionSwift_Example.release.xcconfig"; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* ColorExtensionSwift_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ColorExtensionSwift_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -43,10 +43,10 @@
 		607FACE51AFB9204008FA782 /* ColorExtensionSwift_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ColorExtensionSwift_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
-		77D020871C4AB15F09268373 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		77D020871C4AB15F09268373 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		7867BCF42671FD9D23883359 /* Pods_ColorExtensionSwift_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ColorExtensionSwift_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		8C6906BEF1091B641FF5A495 /* Pods_ColorExtensionSwift_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ColorExtensionSwift_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		B3687F05F4E96373870F3A91 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		B3687F05F4E96373870F3A91 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */

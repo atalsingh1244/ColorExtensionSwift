@@ -1,0 +1,6 @@
+framework module ColorExtensionSwift {
+  umbrella header "ColorExtensionSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
