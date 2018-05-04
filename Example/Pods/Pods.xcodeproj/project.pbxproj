@@ -13,7 +13,7 @@
 		67A793D93636144079D1BC0EC6C9EA62 /* Pods-ColorExtensionSwift_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = F9C972C363C7BDD9CB834B734F7F71C2 /* Pods-ColorExtensionSwift_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		6FAB769CA5233E1385BC6D3162A8737F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
 		80D048C0B168B47437EE687C1DC13049 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
-		84B7B8BD209C3F37003FF2A2 /* ColorExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84B7B8BC209C3F37003FF2A2 /* ColorExtension.swift */; };
+		84B7B8BF209C40B4003FF2A2 /* ColorExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84B7B8BE209C40B4003FF2A2 /* ColorExtension.swift */; };
 		924C75165C9BECE70599E8431C17D145 /* Pods-ColorExtensionSwift_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 9493F22F2630654CCFFC4CA3C00021C1 /* Pods-ColorExtensionSwift_Example-dummy.m */; };
 		C987778A9543E15CBBF34CA85D123F7A /* Pods-ColorExtensionSwift_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = A2830A109A6483664CF44868E50CB659 /* Pods-ColorExtensionSwift_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E8A68AEE80379B31A3FE3F7860D63581 /* ColorExtensionSwift-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = F0B9E81BCF86E2E72E62B10608664921 /* ColorExtensionSwift-dummy.m */; };
@@ -54,7 +54,7 @@
 		610073DAC01CA48036E033F732513002 /* Pods-ColorExtensionSwift_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ColorExtensionSwift_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		7B98A0C6B37265422EB6BEE3BF7DD186 /* ColorExtensionSwift-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ColorExtensionSwift-umbrella.h"; sourceTree = "<group>"; };
-		84B7B8BC209C3F37003FF2A2 /* ColorExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorExtension.swift; sourceTree = "<group>"; };
+		84B7B8BE209C40B4003FF2A2 /* ColorExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ColorExtension.swift; path = ColorExtensionSwift/Classes/ColorExtension.swift; sourceTree = "<group>"; };
 		87A2011F13F0D016665D37D8AB03B034 /* ColorExtensionSwift-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ColorExtensionSwift-prefix.pch"; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9493F22F2630654CCFFC4CA3C00021C1 /* Pods-ColorExtensionSwift_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ColorExtensionSwift_Example-dummy.m"; sourceTree = "<group>"; };
@@ -105,9 +105,9 @@
 		3621015D2844F5BCBD4DCB5F94A38C63 /* ColorExtensionSwift */ = {
 			isa = PBXGroup;
 			children = (
+				84B7B8BE209C40B4003FF2A2 /* ColorExtension.swift */,
 				D698EAF310CC7EE85DCD45A50F1D86EC /* Pod */,
 				AE1DC153B8FC59DE74E9DB5A2C03023E /* Support Files */,
-				84B7B8BC209C3F37003FF2A2 /* ColorExtension.swift */,
 			);
 			name = ColorExtensionSwift;
 			path = ../..;
@@ -357,7 +357,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E8A68AEE80379B31A3FE3F7860D63581 /* ColorExtensionSwift-dummy.m in Sources */,
-				84B7B8BD209C3F37003FF2A2 /* ColorExtension.swift in Sources */,
+				84B7B8BF209C40B4003FF2A2 /* ColorExtension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
