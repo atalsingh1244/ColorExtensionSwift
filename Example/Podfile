@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ColorExtensionSwift_Example' do
+  pod 'ColorExtensionSwift', :path => '../'
+
+  target 'ColorExtensionSwift_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
